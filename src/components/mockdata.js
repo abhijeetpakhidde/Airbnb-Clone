@@ -64,7 +64,7 @@ export const listings = [
   },
   {
     id: 8,
-    title: "Villa in Siolim",
+    title: "Villa in North Goa",
     distance: "5 kilometers away",
     price: "$300",
     rating: 4.85,
